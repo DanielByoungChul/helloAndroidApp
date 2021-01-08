@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         
         feature_one_function();
         feature2_function();
-        // add comments 3
+        // add comments 4
     }
     
     private void feature_one_function() {
